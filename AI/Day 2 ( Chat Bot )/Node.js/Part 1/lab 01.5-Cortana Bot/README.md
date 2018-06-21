@@ -26,7 +26,7 @@ Note:Please enable Cortana Channel after registartion.To understand how to enabl
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 1\lab 01.5-Cortana Bot:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 1\lab 01.5-Cortana Bot:
 
 ```
                              cortanabot.js

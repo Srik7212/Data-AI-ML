@@ -26,7 +26,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 1.To understand how to intercept messages between user and bot please refer following link :[Intercept message](https://docs.microsoft.com/en-us/azure/bot-service/nodejs/bot-builder-nodejs-intercept-messages?view=azure-bot-service-3.0)
 
-2.To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab 03.2-Logging Chat Conversation\code\file logging:
+2.To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.2-Logging Chat Conversation\code\file logging:
 
 ```
                              file_logging.js
@@ -51,7 +51,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ![logging-output](https://user-images.githubusercontent.com/31923904/40838158-906e4f70-65ba-11e8-99b1-8c4f262debe6.png)
 
-4.To check log of conversation check log.txt in the following path :Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab 03.2-Logging Chat Conversation\code\file logging 
+4.To check log of conversation check log.txt in the following path :Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.2-Logging Chat Conversation\code\file logging
  
 ![txtfile](https://user-images.githubusercontent.com/31923904/40839983-6d348aa8-65c2-11e8-84ad-a50034e37bc7.png)
                     

@@ -1,4 +1,4 @@
-# Cortana Bot 
+﻿# Cortana Bot 
 
 In this lab you will build a voice enabled bot which interacts through the voice and collects the information such as name,city,company from the user and display the summary to the user.
 
@@ -23,9 +23,10 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 Note:Please refer following link to understand how to register bot and generate Bot Framework APP ID and App password.  link :[Bot Registration](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-registration?view=azure-bot-service-3.0).
 
 Note:Please enable Cortana Channel after registartion.To understand how to enable cortana channel please refer following link :[Cortana Registration](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-cortana?view=azure-bot-service-3.0).
+
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.5-Cortana Bot\Cortanabot:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.5-Cortana Bot\Cortanabot:
 
 ```
                              Cortanabot.sln
@@ -34,7 +35,7 @@ To check implementation of this lab please refer to the following file in this p
 ### Check implementation through following steps
 
 1. Open Visual studio 2017.
-2. In visual studio go to File->open->project then set path to lab 01.5-Cortana Bot folder (Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.5-Cortana Bot\Cortanabot) and open Cortanabot.sln file.
+2. In visual studio go to File->open->project then set path to lab 01.5-Cortana Bot folder (Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.5-Cortana Bot\Cortanabot) and open Cortanabot.sln file.
 3. Solution in visual studio is opened and  we have to provide Bot Framework App ID and Bot Framework App password in Web.config file.(note : If you are working on local then specify Bot Framework App ID and Bot Framework App password )
  
 ![cortanaweb](https://user-images.githubusercontent.com/31923904/40821673-0012afe0-6586-11e8-9547-24819f80b491.png)
@@ -51,8 +52,4 @@ To check implementation of this lab please refer to the following file in this p
 
 ![cortanabot](https://user-images.githubusercontent.com/31923904/40911930-c94ed472-680d-11e8-9c54-932e4a719370.png)
                                     
-
-
-
-
 

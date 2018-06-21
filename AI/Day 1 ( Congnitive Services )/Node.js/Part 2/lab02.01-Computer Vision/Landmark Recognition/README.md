@@ -22,7 +22,7 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Landmark Recognition:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Landmark Recognition:
 
 ```
                              landmarkrecognition.js
@@ -38,7 +38,7 @@ To check implementation of this lab please refer to the following file in this p
                                node landmarkrecognition.js
 ```
 
-3.The following image is set for test in this path :Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Landmark Recognition\images
+3.The following image is set for test in this path :Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Landmark Recognition\images
 
 ![whitehouse](https://user-images.githubusercontent.com/31923904/41188631-3b3d1138-6bde-11e8-88b8-64bb7edf5d17.jpg)
 
@@ -46,5 +46,3 @@ To check implementation of this lab please refer to the following file in this p
 4.The following screen shows the result of Computer Vision API for Celebrity Recognition.  
 
 ![sg](https://user-images.githubusercontent.com/31923904/41188668-c607c0c4-6bde-11e8-9701-8381038ff098.png)
-
-

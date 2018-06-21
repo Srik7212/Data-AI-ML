@@ -22,7 +22,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 1\lab 01.2.1-UserInput Bot 1:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 1\lab 01.2.1-UserInput Bot 1:
 
 ```
                              userinput_1.js
@@ -46,3 +46,4 @@ To check implementation of this lab please refer to the following file in this p
   -The following screen-shot shows the result of this chat bot running in the Bot Framework Channel Emulator.
 ![userinput_1](https://user-images.githubusercontent.com/31923904/40917827-331138d2-6822-11e8-81ff-9d85b738bbdb.png)
 
+                   

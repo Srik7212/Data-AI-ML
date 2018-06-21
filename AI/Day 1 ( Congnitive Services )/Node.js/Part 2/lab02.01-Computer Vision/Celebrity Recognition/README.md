@@ -22,7 +22,7 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Celebrity Recognition:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Celebrity Recognition:
 
 ```
                              celebrityrecognition.js
@@ -38,7 +38,7 @@ To check implementation of this lab please refer to the following file in this p
                                node celebrityrecognition.js
 ```
 
-3.The following image is set for test in this path :Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Celebrity Recognition\images
+3.The following image is set for test in this path :Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Celebrity Recognition\images
 
 ![satya](https://user-images.githubusercontent.com/31923904/41188490-a815a214-6bdb-11e8-9ab1-2573aa849fe4.png) 
 

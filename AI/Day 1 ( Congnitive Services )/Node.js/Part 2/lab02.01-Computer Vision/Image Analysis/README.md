@@ -22,7 +22,7 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Image Analysis:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Image Analysis:
 
 ```
                              imageanalysis.js
@@ -38,7 +38,7 @@ To check implementation of this lab please refer to the following file in this p
                                node imageanalysis.js
 ```
 
-3.The following image is set for test in this path :Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab02.01-Computer Vision\Image Analysis\images
+3.The following image is set for test in this path :Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 2\lab02.01-Computer Vision\Image Analysis\images
 
 ![pic](https://user-images.githubusercontent.com/31923904/41188860-98195656-6be2-11e8-91f9-e9ac880daec8.jpg)
 

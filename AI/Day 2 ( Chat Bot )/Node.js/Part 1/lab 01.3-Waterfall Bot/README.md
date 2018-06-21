@@ -24,7 +24,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 1\lab 01.3-Waterfall Bot:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 1\lab 01.3-Waterfall Bot:
 
 ```
                              waterfallbot.js
@@ -47,4 +47,3 @@ To check implementation of this lab please refer to the following file in this p
 
   -The following screen shot shows the results of this chat bot running in the Bot Framework Channel Emulator.
 ![untitled](https://user-images.githubusercontent.com/31923904/40918034-c7a8ac0a-6822-11e8-83aa-6f259a33cc5f.png)
-                      

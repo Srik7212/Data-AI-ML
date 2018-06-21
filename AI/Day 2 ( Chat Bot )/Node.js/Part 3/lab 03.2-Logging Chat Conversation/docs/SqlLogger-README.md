@@ -1,3 +1,4 @@
+
 # SQL Logger
 
 The aim of this lab is to log chat conversations to Azure SQL database. 
@@ -29,13 +30,13 @@ CREATE TABLE userChatLog(id int IDENTITY(1, 1),fromId varchar(25),toId varchar(2
 
 ```
 
-2.5 To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab 03.2-Logging Chat Conversation\code\sql logging:
+2.5 To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.2-Logging Chat Conversation\code\sql logging:
 
 ```
                              sql_logging.js
 ```
 
-2.6 open sql_logging file in the path hat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab 03.2-Logging Chat Conversation\code\sql logging and provide all credential which you noted down in notepad during creation of Azure Database in Azure portal.
+2.6 open sql_logging file in the path "Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.2-Logging Chat Conversation\code\sql logging" and provide all credential which you noted down in notepad during creation of Azure Database in Azure portal.
 
 ![congi](https://user-images.githubusercontent.com/31923904/40871378-221ca1ea-6658-11e8-873a-df4640d16730.png)
 
@@ -55,7 +56,3 @@ CREATE TABLE userChatLog(id int IDENTITY(1, 1),fromId varchar(25),toId varchar(2
 3.0 open Azure portal then from the database page of the portal, select Tools -> Query editor (preview) to preview log messages stored in the table. Login to run any queries. This is a quick way to see results but is not the only way of doing it. Feel free to use any SQL client to perform query operations. Run the query Select * from userChatLog to view chat inserts into the table userChatLog. In the below example, the message You sent A message which was 9 Characters sent via the bot emulator is logged along with the ids.
 
 ![chatlog](https://user-images.githubusercontent.com/31923904/40853721-b8aaea48-65ec-11e8-9820-4e4d0c58600c.png)
-
- 
-
-

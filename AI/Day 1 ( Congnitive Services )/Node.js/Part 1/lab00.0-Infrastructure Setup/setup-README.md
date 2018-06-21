@@ -14,8 +14,8 @@ After creating an Azure account, you may access the [Azure portal](https://porta
 
 [Connect to your VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/connect-logon). Once you're connected, there are several things you need to do to set up the DSVM for the workshop:
 
-1. In the Cortana search bar, type "git bash" and select "Git Bash Desktop App", or type "cmd" and select "Command Prompt". Next, type `cd c://` then enter, and `git clone https://github.com/jumpstartninjatech/Chat-Bot-AI-Virtual-Trail-Blazer-Series.git` then enter. This copies down all of the files from the GitHub site to **C:\Chat-Bot-AI-Virtual-Trail-Blazer-Series**.  
-*Validation step*: Go to **C:\Chat-Bot-AI-Virtual-Trail-Blazer-Series** and confirm it exists.
+1. In the Cortana search bar, type "git bash" and select "Git Bash Desktop App", or type "cmd" and select "Command Prompt". Next, type `cd c://` then enter, and `git clone https://github.com/jumpstartninjatech/Data-AI-ML.git` then enter. This copies down all of the files from the GitHub site to **C:\Data-AI-ML**.  
+*Validation step*: Go to **C:\Data-AI-ML** and confirm it exists.
 
 ### Lab 1.2: Download Bot Emulator 
 

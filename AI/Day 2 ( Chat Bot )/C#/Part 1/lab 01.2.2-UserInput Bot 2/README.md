@@ -1,4 +1,4 @@
-# User Input Bot 2
+﻿# User Input Bot 2
 
 In this lab you will build a bot which provided different choices to the users to choose from and later display back the selected choices.
 
@@ -22,7 +22,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check the implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.2.2-UserInput Bot 2\Userinputbot2 folder:
+To check the implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.2.2-UserInput Bot 2\Userinputbot2 folder:
 
 ```
                              Userinputbot2.sln
@@ -31,7 +31,7 @@ To check the implementation of this lab please refer to the following file in th
 ### Check implementation through following steps
 
 1. Open Visual studio 2017.
-2. In visual studio go to File->open->project then set path to Userinputbot2 folder (Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.2.2-UserInput Bot 2\Userinputbot2) and open Userinputbot2.sln file.
+2. In visual studio go to File->open->project then set path to Userinputbot2 folder (Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.2.2-UserInput Bot 2\Userinputbot2) and open Userinputbot2.sln file.
 3. Solution in visual studio is opened and  we have to provide Bot Framework App ID and Bot Framework App password in Web.config file.(note : If you are working on local then there is no need to specify Bot Framework App ID and Bot Framework App password ).
 
 ![web](https://user-images.githubusercontent.com/31923904/40702591-1b000c26-6400-11e8-89a3-6bbbc4aaa6b8.png)
@@ -48,8 +48,3 @@ To check the implementation of this lab please refer to the following file in th
 ![userinputbot2](https://user-images.githubusercontent.com/31923904/40873321-cc7e92ec-667b-11e8-8923-45ddc7942a69.png)
 
                                     
-
-
-
-
-

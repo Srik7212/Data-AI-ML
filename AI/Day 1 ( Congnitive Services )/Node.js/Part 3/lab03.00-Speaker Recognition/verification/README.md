@@ -21,14 +21,14 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 ### Implementation
 
-To check implementation of this lab please refer to the following path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition.Implmentation consist of two parts:
+To check implementation of this lab please refer to the following path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\verification.Implmentation consist of two parts:
 
 * Training part
 * Testing part
 
 ### To check implementation go through following steps :
 
-step 1 :open .env file in the following path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\verification\Training and paste Speaker Recognition API subscription key.
+step 1 :open .env file in the following path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\verification\Training and paste Speaker Recognition API subscription key.
 
 Step 2 :In this step we will create verificationProfileId for user which is uniquely associated with the voice sample.To create verificationProfileId set path to Training foler in cmd and then run the following file:
 
@@ -59,4 +59,3 @@ step 4:To verify the voice n input voice and phrase are compared against the enr
 
 ```
 ![xc](https://user-images.githubusercontent.com/31923904/41190007-74316a00-6bf4-11e8-8cc0-b96dd8ea3998.png)
-

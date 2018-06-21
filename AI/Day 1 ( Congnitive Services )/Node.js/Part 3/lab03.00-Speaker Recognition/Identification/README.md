@@ -22,18 +22,18 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 ### Implementation
 
 To check implementation of this lab please refer to the following path 
-Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification.Implementation consist of two parts:
+Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification.Implementation consist of two parts:
 
 * Training part
 * Testing part
 
 ### To check implementation go through following steps :
 
-step 1 :open .env file in the following path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification\Training and paste Speaker Recognition API subscription key.
+step 1 :open .env file in the following path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Training and paste Speaker Recognition API subscription key.
 
-Note :Voice sample set to the following path :Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification\Training\voice
+Note :Voice sample set to the following path :Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Training\voice
 
-step 2 :To train API for voice sample set path to the Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification\Training in cmd then run training.js
+step 2 :To train API for voice sample set path to the Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Training in cmd then run training.js
 
  ```
 training.js
@@ -42,11 +42,11 @@ training.js
 ![sdf](https://user-images.githubusercontent.com/31923904/41190244-a1b985f8-6bf8-11e8-821a-8293ea2e5b34.png)
 
 
-step 3 :open .env in this path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification\Testing and paste the identificationprofileid obtained through the step 2.
+step 3 :open .env in this path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Testing and paste the identificationprofileid obtained through the step 2.
 
-Note :Voice sample set to the following path : Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification\Testing\voice
+Note :Voice sample set to the following path : Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Testing\voice
 
-step 4 :To test voice sample against identificationprofileid run following file in the following path "Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00-Speaker Recognition\Identification" Testing in cmd :
+step 4 :To test voice sample against identificationprofileid run following file in the following path "Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.00-Speaker Recognition\Identification\Testing" in cmd :
 
 ```
 testing.js
@@ -57,3 +57,12 @@ testing.js
 
 
  
+
+
+
+
+
+
+
+  
+

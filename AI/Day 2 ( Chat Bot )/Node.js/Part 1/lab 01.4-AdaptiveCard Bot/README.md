@@ -23,7 +23,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 1\lab 01.4-AdaptiveCard Bot:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 1\lab 01.4-AdaptiveCard Bot:
 
 ```
                              adaptivecardbot.js

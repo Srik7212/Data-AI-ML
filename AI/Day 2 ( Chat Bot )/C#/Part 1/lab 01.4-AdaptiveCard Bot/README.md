@@ -1,4 +1,4 @@
-# Adaptive Card Bot
+﻿# Adaptive Card Bot
 
 In this lab you will build a bot which collect information from user such as name,city,company name through Adaptive card and display the information summary to the user and ask for confirmation.
 
@@ -24,7 +24,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check the implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.4-AdaptiveCard Bot\Adaptivecardbot:
+To check the implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.4-AdaptiveCard Bot\Adaptivecardbot:
 
 ```
                              Adaptivecardbot.sln
@@ -33,7 +33,7 @@ To check the implementation of this lab please refer to the following file in th
 ### Check implementation through following steps
 
 1. Open Visual studio 2017.
-2. In visual studio go to File->open->project then set path to Adaptivecardbot folder (Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.4-AdaptiveCard Bot\Adaptivecardbot) and open Adaptivecardbot.sln file.
+2. In visual studio go to File->open->project then set path to Adaptivecardbot folder (Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.4-AdaptiveCard Bot\Adaptivecardbot) and open Adaptivecardbot.sln file.
 3. Solution in visual studio will opened and  we have to provide Bot Framework App ID and Bot Framework App password in Web.config file.(note : If you are working on local then there is no need to specify Bot Framework App ID and Bot Framework App password ).
 
 ![web](https://user-images.githubusercontent.com/31923904/40702591-1b000c26-6400-11e8-89a3-6bbbc4aaa6b8.png)
@@ -49,8 +49,3 @@ To check the implementation of this lab please refer to the following file in th
 
 ![adaptivecardbot](https://user-images.githubusercontent.com/31923904/40911923-c4a08c7c-680d-11e8-8e82-1e3fac1b8a41.png)
                                     
-
-
-
-
-

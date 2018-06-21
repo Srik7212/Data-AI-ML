@@ -1,4 +1,4 @@
-# Waterfall Bot
+﻿# Waterfall Bot
 
 In this lab you will build a bot which collects information from user such as name,company,city and later display the summary of information collected.
 ### Prerequisites
@@ -23,7 +23,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To the check implementation of this lab please refer to the following file in this path - Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.3-Waterfall Bot\Waterfallbot folder:
+To the check implementation of this lab please refer to the following file in this path -Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.3-Waterfall Bot\Waterfallbot  folder:
 
 ```
                              Waterfallbot.sln
@@ -32,7 +32,7 @@ To the check implementation of this lab please refer to the following file in th
 ### Check implementation through following steps
 
 1. Open Visual studio 2017.
-2. In visual studio go to File->open->project then set path to lab 01.3-Waterfall Bot folder (Chat-Bot-AI-Virtual-Trail-Blazer-Series\C#\Day 1\lab 01.3-Waterfall Bot\Waterfallbot) and open Waterfallbot.sln file.
+2. In visual studio go to File->open->project then set path to lab 01.3-Waterfall Bot folder (Data-AI-ML-master\AI\Day 2 ( Chat Bot )\C#\Part 1\lab 01.3-Waterfall Bot\Waterfallbot) and open Waterfallbot.sln file.
 3. Solution in the visual studio will opened and  we have to provide Bot Framework App ID and Bot Framework App password in Web.config file.(note : If you are working on local then there is no need to specify Bot Framework App ID and Bot Framework App password ).
 
 ![web](https://user-images.githubusercontent.com/31923904/40702591-1b000c26-6400-11e8-89a3-6bbbc4aaa6b8.png)
@@ -47,6 +47,11 @@ To the check implementation of this lab please refer to the following file in th
 
 ![waterfallbot](https://user-images.githubusercontent.com/31923904/40911940-d077b750-680d-11e8-97f8-c665a8edbc4c.png)
                                     
+
+
+
+
+
 
 
 

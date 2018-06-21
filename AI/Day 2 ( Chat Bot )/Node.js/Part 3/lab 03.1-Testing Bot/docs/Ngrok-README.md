@@ -10,7 +10,7 @@ When designing / building / testing your code, you do not always want to keep re
   
  a.If you do not have ngrok installed, download ngrok from https://ngrok.com/download and install for your OS. Unzip ngrok file downloaded and install it.
 
- b.	Open echobot.js bot in following path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\Testing Bot\code then run echobot.js.
+ b.	Open echobot.js bot in following path "Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.1-Testing Bot\code" then run echobot.js.
 
 
 

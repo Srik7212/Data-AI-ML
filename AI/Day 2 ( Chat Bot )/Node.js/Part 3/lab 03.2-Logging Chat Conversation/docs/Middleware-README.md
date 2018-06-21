@@ -68,7 +68,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab 03.2-Logging Chat Conversation\code\Middleware logging:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 3\lab 03.2-Logging Chat Conversation\code\Middleware logging:
 
 ```
                              middleware_logging.js
@@ -95,5 +95,4 @@ To check implementation of this lab please refer to the following file in this p
   -The following screenshot shows the results of this chatbot running in the console.
 
 ![console](https://user-images.githubusercontent.com/31923904/40838154-8e0cd2ce-65ba-11e8-8a88-972ce1375342.png)
-
 

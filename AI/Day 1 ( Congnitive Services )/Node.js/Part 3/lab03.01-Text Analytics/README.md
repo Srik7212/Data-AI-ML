@@ -22,7 +22,7 @@ Over the course of this lab, we will collect various keys. It is recommended tha
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Cognitive-Services-AI-Virtual-Trail-Blazer-Series\Node.js\Day 3\lab03.00 Text Analytics:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 1 ( Congnitive Services )\Node.js\Part 3\lab03.01-Text Analytics:
 
 ```
                              textanalytics.js
@@ -30,17 +30,14 @@ To check implementation of this lab please refer to the following file in this p
 
 ### Check implementation through following steps
 
-1.open .env file in the lab03.00 Text Analytics folder then paste Text Analytics API subscription key and language code (please refer following link for language code:[Language Code](https://docs.microsoft.com/en-in/azure/cognitive-services/text-analytics/text-analytics-supported-languages))   
+1.open .env file in the lab03.01 Text Analytics folder then paste Text Analytics API subscription key and language code (please refer following link for language code:[Language Code](https://docs.microsoft.com/en-in/azure/cognitive-services/text-analytics/text-analytics-supported-languages))   
 
 
-2.Open command prompt (cmd) and set path to lab03.00 Text Analytics folder then run textanalytics.js file using command below:
+2.Open command prompt (cmd) and set path to lab03.01 Text Analytics folder then run textanalytics.js file using command below:
 ```
                                node textanalytics.js
 ```
 3.On the command prompt give the text which you would like to analyze.The following screen shows the result of text Analytics API for english text.  
 
 ![textanalytics](https://user-images.githubusercontent.com/31923904/41188060-7ba8aba0-6bd5-11e8-9c13-49e8f64ab3f1.png)
-
-
-
 

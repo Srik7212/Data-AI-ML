@@ -1,4 +1,4 @@
-# Hello Bot
+﻿# Hello Bot
 
 In this lab you will build a basic bot which will always respond to user input as “Hello bot”.
 
@@ -24,7 +24,7 @@ Note:Please refer following link to understand how to generate Bot Framework APP
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 1\lab 01.1-Hello Bot:
+To check implementation of this lab please refer to the following file in this path Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 1\lab 01.1-Hello Bot:
 
 ```
                              HelloBot.js
@@ -48,5 +48,4 @@ To check implementation of this lab please refer to the following file in this p
   -The following screenshot shows the results of this chatbot running in the Bot Framework Channel Emulator.
 
 !![hello1](https://user-images.githubusercontent.com/31923904/39461464-6b09f662-4d28-11e8-8db6-212380337339.png)
-                                    
-
+                 

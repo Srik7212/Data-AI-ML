@@ -27,11 +27,11 @@ Note:Please refer following link to understand how to generate Bot Framework App
 
 1.To understand how to train Qna Maker services using FAQ URLs and structured documents please refer following link:[Train QnA](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-quickstart-registration?view=azure-bot-service-3.0).
 
-Note :Please refer sample QNADocument.doc in the following path "Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab 02.1-QNA Maker Bot" to train QnA Maker Service with structured document or you can use the following sample link: "https://www.mcdonalds.com.sg/faq/mcdelivery-service/" for training QnA Maker Services.    
+Note :Please refer sample QNADocument.doc in the following path "Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 2\lab 02.1-QNA Maker Bot" to train QnA Maker Service with structured document or you can use the following sample link: "https://www.mcdonalds.com.sg/faq/mcdelivery-service/" for training QnA Maker Services.    
 
 ### Implementation
 
-To check implementation of this lab please refer to the following file in this path of folder Chat-Bot-AI-Virtual-Trail-Blazer-Series\Node.js\Day 2\lab 02.1-QNA Maker Bot:
+To check implementation of this lab please refer to the following file in this path of folder Data-AI-ML-master\AI\Day 2 ( Chat Bot )\Node.js\Part 2\lab 02.1-QNA Maker Bot:
 
 ```
                              QnaMakerBot.js
@@ -58,3 +58,4 @@ Note :Please refer the following link for understanding how to get Authorization
  -The following screen shot shows the results of this chat bot running in the Bot Framework Channel Emulator.
 
 ![qnamakerbot_2](https://user-images.githubusercontent.com/31923904/39426460-98205550-4c9d-11e8-85e5-e4e3c14049db.jpg)
+                      
